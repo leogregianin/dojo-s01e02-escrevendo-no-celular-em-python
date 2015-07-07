@@ -1,6 +1,7 @@
 # # Dojo DevMT S01E02 ([Original](https://github.com/devmatogrosso/dojo-s01e02-escrevendo-no-celular))
 
 # Versão em Python
+[![Build Status](https://travis-ci.org/leogregianin/dojo-s01e01-cheque-por-extenso.python.svg)](https://travis-ci.org/leogregianin/dojo-s01e01-cheque-por-extenso.python)
 
 ## Data e Local
 Data: 04/07/2015  
