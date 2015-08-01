@@ -2,6 +2,8 @@
 
 # Versão em Python
 [![Build Status](https://travis-ci.org/leogregianin/dojo-s01e02-escrevendo-no-celular-em-python.svg)](https://travis-ci.org/leogregianin/dojo-s01e02-escrevendo-no-celular-em-python)
+[![Code Climate](https://codeclimate.com/github/leogregianin/dojo-s01e02-escrevendo-no-celular-em-python/badges/gpa.svg)](https://codeclimate.com/github/leogregianin/dojo-s01e02-escrevendo-no-celular-em-python) 
+[![Test Coverage](https://codeclimate.com/github/leogregianin/dojo-s01e02-escrevendo-no-celular-em-python/badges/coverage.svg)](https://codeclimate.com/github/leogregianin/dojo-s01e02-escrevendo-no-celular-em-python/coverage)
 
 ## Data e Local
 Data: 04/07/2015  
